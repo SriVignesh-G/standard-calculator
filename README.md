@@ -7,19 +7,19 @@ To design a web application for a standard calculator.
 ## DESIGN STEPS:
 
 ### Step 1:
-Clone the repository from the github.
+Fork the repository in your github and Clone the repository from the github.
 
 ### Step 2:
 Create a django environment.
 
 ### Step 3:
-Modify setting.py in myproj and create a static folder.
+Make necessary changes in setting.py and create a static folder.
 
 ### Step 4:
 Add html,css,and Js files in static folder.
 
 ### Step 5:
-run the static files.
+Run the static files.
 
 ### Step 6:
 
@@ -171,5 +171,5 @@ for (item of buttons) {
 ![calcioutput](./calci.jpg)
 
 ## Result:
-the program was executed successfully
+Thus The simple calculator had created successfully.
 
