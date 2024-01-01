@@ -23,10 +23,6 @@ Run the static files.
 
 ### Step 6:
 
-Validate the HTML and CSS code.
-
-### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
